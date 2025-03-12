@@ -1,7 +1,7 @@
 # Crop-Prediction
 A machine learning designed to recommend crop types to farmers based on the surrounding temperature, amount of rainfall, quality of the surrounding air, and quantity of pesticides in order to maximise yield.
 
-**This was a school project done in a group of 5 people, and this document is adapted from a presentation on the project.
+**This was a school project done in a group of 5 people, and this README file is adapted from a presentation on the project.
 # Main focus of this model
 How might we leverage machine learning to recommend crop types to farmers based on the surrounding temperature, amount of rainfall, quality of the surrounding air, and quantity of pesticides used to maximise yield?	
 # Data preparation
